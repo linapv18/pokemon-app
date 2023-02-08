@@ -1,0 +1,13 @@
+@import "../Components/PokemonCard/PokemonCard.scss";
+@import "../Components/SearchBar/SearchBar.scss";
+@import "../Components/Header/Header.scss";
+@import "../Components/Home/Home.scss";
+@import "../Components/DetailsPage/DetailsPage.scss";
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  margin: 0;
+}
+
